@@ -1,0 +1,1 @@
+This project is a simplified clone of the GeeksforGeeks website, implemented using HTML, CSS, and JavaScript.The Cloone includes home, about, courses, and contact pages. On the home page, we’ve added sections like categories, features, testimonials, and FAQs, similar to the GFG website.
